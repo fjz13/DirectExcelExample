@@ -13,7 +13,8 @@
 	"Plugins": [
 		{
 			"Name": "DirectExcel",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/59f434efddeb4c93b27c8e05719664f1"
 		}
 	]
 }
