@@ -31,7 +31,6 @@
 *.out
 *.app
 /.vs
-/Binaries
 /DerivedDataCache
 /Intermediate
 /Saved
