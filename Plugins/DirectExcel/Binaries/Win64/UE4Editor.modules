@@ -1,8 +1,0 @@
-{
-	"BuildId": "3944462",
-	"Modules": 
-	{
-		"DirectExcel": "UE4Editor-DirectExcel.dll",
-		"XlntLib": "UE4Editor-XlntLib.dll"
-	}
-}
